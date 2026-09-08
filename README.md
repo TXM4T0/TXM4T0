@@ -51,32 +51,8 @@ web exploitation · reverse engineering · CTF & hackathons
 ![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=C77DFF)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=C77DFF)
 ![VSCode](https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=C77DFF)
-![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-000000?style=for-the-badge&logo=burpsuite&logoColor=C77DFF)
 ![Wireshark](https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=C77DFF)
 
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TXM4T0&show_icons=true&hide_border=true&bg_color=00000000&title_color=E0AAFF&icon_color=9d4edd&text_color=C77DFF&ring_color=6a0dad" height="165"/>
-<img src="https://streak-stats.demolab.com?user=TXM4T0&hide_border=true&background=00000000&ring=9d4edd&fire=E0AAFF&currStreakLabel=E0AAFF&sideLabels=C77DFF&currStreakNum=C77DFF&sideNums=C77DFF&dates=6a0dad" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TXM4T0&layout=compact&hide_border=true&bg_color=00000000&title_color=E0AAFF&text_color=C77DFF" height="150"/>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TXM4T0&hide_border=true&bg_color=00000000&color=C77DFF&line=9d4edd&point=E0AAFF&area=true&area_color=6a0dad" width="100%"/>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TXM4T0&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
 </div>
 
 <br>
