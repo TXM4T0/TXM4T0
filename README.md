@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=C77DFF&center=true&vCenter=true&width=550&lines=breaking+web+apps+for+fun;building+CLI+%2B+CTF+tooling;still+debugging+at+3am" />
 
-<img src="https://profile-counter.glitch.me/TXM4T0/count.svg" width="120"/>
+<img src="https://komarev.com/ghpvc/?username=TXM4T0&label=profile+views&color=6a0dad&style=for-the-badge" />
 
 </div>
 
@@ -60,7 +60,7 @@ web exploitation · reverse engineering · CTF & hackathons
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TXM4T0&show_icons=true&hide_border=true&bg_color=00000000&title_color=E0AAFF&icon_color=9d4edd&text_color=C77DFF&ring_color=6a0dad" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TXM4T0&hide_border=true&background=00000000&ring=9d4edd&fire=E0AAFF&currStreakLabel=E0AAFF&sideLabels=C77DFF&currStreakNum=C77DFF&sideNums=C77DFF&dates=6a0dad" height="165"/>
+<img src="https://streak-stats.demolab.com?user=TXM4T0&hide_border=true&background=00000000&ring=9d4edd&fire=E0AAFF&currStreakLabel=E0AAFF&sideLabels=C77DFF&currStreakNum=C77DFF&sideNums=C77DFF&dates=6a0dad" height="165"/>
 </div>
 
 <div align="center">
