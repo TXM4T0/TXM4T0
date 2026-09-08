@@ -60,7 +60,7 @@ web exploitation · reverse engineering · CTF & hackathons
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=C77DFF)](https://linkedin.com)
-[![Discord](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=C77DFF)](https://discord.com)
+[![Discord](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=C77DFF)](https://discord.com/users/txmmtamsos)
 
 </div>
 
