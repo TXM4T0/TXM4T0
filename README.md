@@ -4,18 +4,42 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=C77DFF&center=true&vCenter=true&width=550&lines=breaking+web+apps+for+fun;building+CLI+%2B+CTF+tooling;still+debugging+at+3am" />
 
+<img src="https://profile-counter.glitch.me/TXM4T0/count.svg" width="120"/>
+
 </div>
 
 <br>
 
-\`\`\`py
+```py
 class TXM4T0:
     def __init__(self):
-        self.focus   = ["web exploitation", "rev engineering", "CTF"]
-        self.builds  = "CTF-Tools_TXMATO — hybrid CLI + local web toolkit"
-        self.stack   = ["python", "bash", "docker", "linux"]
-        self.status  = "probably stuck on a payload right now"
-\`\`\`
+        self.focus  = ["web exploitation", "rev engineering", "CTF"]
+        self.builds = "CTF-Tools_TXMATO — hybrid CLI + local web toolkit"
+        self.stack  = ["python", "bash", "docker", "linux"]
+        self.status = "probably stuck on a payload right now"
+
+    def contact(self):
+        return ["linkedin", "discord"]
+```
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**currently building**
+CTF-Tools_TXMATO — hybrid CLI + local web toolkit for CTF challenges
+
+</td>
+<td align="center" width="50%">
+
+**currently focused on**
+web exploitation · reverse engineering · CTF & hackathons
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -26,6 +50,9 @@ class TXM4T0:
 ![Linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=C77DFF)
 ![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=C77DFF)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=C77DFF)
+![VSCode](https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=C77DFF)
+![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-000000?style=for-the-badge&logo=burpsuite&logoColor=C77DFF)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-000000?style=for-the-badge&logo=wireshark&logoColor=C77DFF)
 
 </div>
 
@@ -44,6 +71,12 @@ class TXM4T0:
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TXM4T0&hide_border=true&bg_color=00000000&color=C77DFF&line=9d4edd&point=E0AAFF&area=true&area_color=6a0dad" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TXM4T0&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
 </div>
 
 <br>
